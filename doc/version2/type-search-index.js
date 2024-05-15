@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"libreriaV2","l":"files"},{"p":"libreriaV2","l":"generic"},{"p":"libreriaV2","l":"parametrizable"}];updateSearchResults();
