@@ -15,6 +15,7 @@ public interface parametrizable<T> {
 	public final String ERHora = "([0-9]{2}):([0-9]{2}):([0-9]{2})";
 	public final String ERURL = "^(http|https)://([a-z0-9]+[.])*[a-z0-9]+[.][a-z]{2,3}$";
 	public final String ERArchivo = "^([a-zA-Z0-9][-_]?)+[.][a-z]{2,}$";
+	public final String name_folder = "files";
 	
 	public static String creditos() {
 		return String.format("Desarrollado por: %s; ID: %d; Copyrigth: %s", desarrollador, id, copyrigth);
